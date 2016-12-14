@@ -1,0 +1,16 @@
+body {background-color:#D5DBDB;}
+
+p {font-size:160%;
+text-align:center;}
+#p01 {float: right;
+margin: 0 0 10px 10px;
+       width:200px;height:200px;}
+#p02{
+    float: left;
+    margin: 0 0 10px 10px;
+    width:200px;height:200px;
+}
+
+#p03{display: block;
+width:200px;height:200px;
+}
